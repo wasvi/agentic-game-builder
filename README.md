@@ -55,4 +55,18 @@ Future Improvements
 Multi-agent architecture
 Game asset generation
 Automated testing agent
+
 Live game preview
+
+
+User Input
+   ↓
+Agent Controller
+   ↓
+Clarifier Agent
+   ↓
+Planner Agent
+   ↓
+Builder Agent
+   ↓
+Generated Game Files
